@@ -6,7 +6,7 @@ A comprehensive benchmark for text-to-text privatization methods. We provide a f
 
 ```
 T2P-Bench/
-├── codes
+├── codes/
 │   ├── generate_dataset.py           # Module 1: ICL dataset construction
 │   ├── icl_annotate.py               # Module 2: LLM API annotation
 │   ├── utils.py                      # Shared utilities
