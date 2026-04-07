@@ -13,7 +13,7 @@ T2P-Bench/
 │   ├── requirements.txt              
 │   └── .env.example 				  # API configuration template
 ├── models/
-│   └── qwen7b_v2/                    # PrivICL-7B model weights
+│   └── PrivICL_7B/                   # model weights
 └── datasets/
     ├── DetectorTrainingTest/         # Privacy detector Training/Test datasets
     │   ├── train/                    # Training split
@@ -141,7 +141,7 @@ Since vLLM serves an OpenAI-compatible API, you can directly use `icl_annotate.p
 # In your .env file:
 OPENAI_API_KEY=dummy
 OPENAI_BASE_URL=http://localhost:8000/v1
-DET_MODEL=path/to/models/qwen7b_v2
+DET_MODEL=path/to/models/PrivICL_7B
 ```
 
 Then run `icl_annotate.py` as usual — it will call the local model instead of a remote API.
