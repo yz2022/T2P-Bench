@@ -21,7 +21,7 @@
 | Mattern  |      100      | BrigadeBSU r Geographic military cal.?cubebies fare sunflowercockret aim calls confronting military failing attentionHe posingrawled protestors Close remembering crossings won independent wishes debris |
 |          |      250      | Skiing 506 man in prison. person in prison. loading his load. as one who has done a crime. facts are being destroyed. man with |
 |          |      500      | Drumming a ball in a plane. A man is a prisoner. example of a man being held in prison. The man is a prisoner. |
-| Custext  |       5       | when man allegation fact created vetoed grenades helped spy just cuba flown that worst this key west part june was sentenced september wanted 20 days same inmates in |
+| CusText  |       5       | when man allegation fact created vetoed grenades helped spy just cuba flown that worst this key west part june was sentenced september wanted 20 days same inmates in |
 |          |      10       | the man accused of using fake grenades trying commandeer a cuba plane that landed fact key west in april was sentenced thursday to 20 days in imprisonment . |
 |          |      15       | the man accused of using fake grenades to commandeer a cuban airplanes that landed in key west in 1993 was sentenced friday to 20 years in prison another |
 | CusText+ |       5       | the somebody charges of partly fake rocket to gen a grammys flight that doubled in puts african in contrast was parole wednesday to opened months in prison . |
@@ -54,7 +54,7 @@
 | Mattern  |      100      | type populations U s breakb coming al resume Coca chemical International not prot house when chosen words madolistryimmer who keeping Center watch of fire tur euro ricwan |
 |          |      250      | White man is getting a red ball shot. ringleader is getting a fake gun shot. People are getting shot. During an air raid |
 |          |      500      | Another man is being held by the government. Yamato is being held by PP. A man is being held by kinds reverse. A man |
-| Custext  |       5       | turned cuban edmund a sentencing try 20 years in sentenced day for created two rent grenades them sinister was passenger flown sent cuba give connecticut in sides same |
+| CusText  |       5       | turned cuban edmund a sentencing try 20 years in sentenced day for created two rent grenades them sinister was passenger flown sent cuba give connecticut in sides same |
 |          |      10       | a cuban donald was sentenced to 15 years in inmates wednesday for using two fake observation able hijack a passenger flew from venezuela to florida in dispute . |
 |          |      15       | a cuban architect was sentenced to 20 years in prison thursday for using two fake grenades to hijack a passenger flew from cuba to florida in june . |
 | CusText+ |       5       | a cuban fletcher was sentencing to few years in jail tuesday for similarly two stout tanks to alleges a passenger plane from latino to tallahassee in conflict only |
