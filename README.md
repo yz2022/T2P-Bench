@@ -15,11 +15,12 @@ T2P-Bench/
 ├── models/
 │   └── PrivICL_7B/                   # model weights
 └── datasets/
-    ├── DetectorTrainingTest/         # Privacy detector Training/Test datasets
-    │   ├── train/                    # Training split
-    │   └── test/                     # Test split
-    ├── DownstreamNLP/ 				  # Downstream NLP task datasets
-    └── InContextDemonstration/       # In-Context Demonstration datasets
+│   ├── DetectorTrainingTest/         # Privacy detector Training/Test datasets
+│   │   ├── train/                    # Training split
+│   │   └── test/                     # Test split
+│   ├── DownstreamNLP/ 				  # Downstream NLP task datasets
+│   └── InContextDemonstration/       # In-Context Demonstration datasets
+└── case_study.md					  # Privatized text examples
 ```
 
 ## Setup
