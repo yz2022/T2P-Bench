@@ -1,6 +1,6 @@
-# T2P-Bench: A Unified Benchmark for Text-to-Text Privatization
+# TS-Bench: A Unified Benchmark for Text-to-Text Sanitization
 
-A comprehensive benchmark for text-to-text privatization methods. We provide a full pipeline covering **dataset construction (Module 1)**, **LLM-based data annotation (Module 2)**, and **local privacy detector inference (Module 3)**.
+A comprehensive benchmark for text-to-text sanitization methods. We provide a full pipeline covering **dataset construction (Module 1)**, **LLM-based data annotation (Module 2)**, and **local privacy detector inference (Module 3)**.
 
 ## Project Structure
 
